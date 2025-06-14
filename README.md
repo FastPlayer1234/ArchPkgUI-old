@@ -1,6 +1,6 @@
 # ArchPkgUI
 
-**ArchPkgUI** is a lightweight and user-friendly package manager frontend for Arch Linux. It provides a simplified interface to manage packages using `pacman`.
+**ArchPkgUI** is a lightweight and user-friendly package manager frontend for Arch Linux. It provides a simplified interface to manage packages using `alpm`.
 
 ## Features
 
